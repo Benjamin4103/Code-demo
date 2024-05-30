@@ -3,6 +3,7 @@
 
 ## Project Overview
 This project uses the YOLO model from Ultralytics to detect violent activities in video streams. The detected instances are cropped and saved as separate images.
+For full overview you can check the project file "integerated.pdf"
 
 ## Installation Instructions
 To set up this project locally:
