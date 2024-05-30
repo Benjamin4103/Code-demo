@@ -10,7 +10,7 @@ To set up this project locally:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/violence_detection.git
+   https://github.com/Benjamin4103/Code-demo.git
    cd violence_detection
 
 2. **Create a virtual environment**
